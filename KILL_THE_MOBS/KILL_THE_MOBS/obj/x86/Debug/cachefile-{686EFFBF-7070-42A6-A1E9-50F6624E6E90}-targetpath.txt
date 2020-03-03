@@ -1,0 +1,17 @@
+Content\maali.xnb
+Content\norsu.xnb
+Content\tahti.xnb
+Content\kentta1.xnb
+Content\steave.xnb
+Content\creeper.xnb
+Content\nyan.xnb
+Content\elämä.xnb
+Content\kuvake.xnb
+Content\steave2.xnb
+Content\mario.xnb
+Content\mario.wma
+Content\iron.xnb
+Content\timantti.xnb
+Content\gold.xnb
+Content\rajahdys.xnb
+Content\miekka.xnb
